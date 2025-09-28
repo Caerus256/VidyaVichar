@@ -172,7 +172,7 @@ Provides **traceability** and supports real-world classroom Q&A flow.
 
 ## 🔄 Solution Diagram  
 
-![Solution Diagram]("/soln_diagram.png")
+![Solution Diagram](./soln_diagram.png)
 
 ## 📖 Interpretations  
 
